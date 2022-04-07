@@ -1,0 +1,28 @@
+PLINK v1.90b3b 64-bit (15 Jan 2015)
+7 arguments: --bfile 1000G_Phase3_QC --bmerge NIH_QC --make-bed --out Merge
+Hostname: dlfrontend.local
+Working directory: /home/adminrig/workspace.pyg/works/2020/20.04/200423/Structure/TEST/ADD2_TEST
+Start time: Mon Apr 27 15:51:06 2020
+
+Random number seed: 1587970266
+32225 MB RAM detected; reserving 16112 MB for main workspace.
+2504 people loaded from 1000G_Phase3_QC.fam.
+96 people to be merged from NIH_QC.fam.
+Of these, 96 are new, while 0 are present in the base dataset.
+574 markers loaded from 1000G_Phase3_QC.bim.
+574 markers to be merged from NIH_QC.bim.
+Of these, 0 are new, while 574 are present in the base dataset.
+Performing single-pass merge (2600 people, 574 variants).
+Merged fileset written to Merge-merge.bed + Merge-merge.bim + Merge-merge.fam .
+574 variants loaded from .bim file.
+2600 people (1301 males, 1299 females) loaded from .fam.
+2600 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2600 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999801.
+574 variants and 2600 people pass filters and QC.
+Among remaining phenotypes, 0 are cases and 2600 are controls.
+--make-bed to Merge.bed + Merge.bim + Merge.fam ... done.
+
+End time: Mon Apr 27 15:51:06 2020
