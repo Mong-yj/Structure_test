@@ -1,0 +1,73 @@
+# This document produced by structureHarvester core version vA.2 July 2014
+# http://www.structureharvester.com/
+# https://github.com/dentearl/structureHarvester/
+# http://taylor0.biology.ucla.edu/structureHarvester
+# http://users.soe.ucsc.edu/~dearl/software/structureHarvester
+# Written by Dent Earl, dearl (a) soe ucsc edu.
+# CITATION:
+# Earl, Dent A. and vonHoldt, Bridgett M. (2012)
+# STRUCTURE HARVESTER: a website and program for visualizing
+# STRUCTURE output and implementing the Evanno method.
+# Conservation Genetics Resources 4(2) 359-361. DOI: 10.1007/s12686-011-9548-7
+# Core version: vA.2 July 2014
+# File generated at 2022-Apr-06 19:17:30 UTC
+#
+
+##########
+# K	Reps	mean est. LnP(Data)	stdev est. LnP(Data)
+2	10	-1812271.070000	3983.715228
+3	10	-1705186.470000	1041.712364
+4	10	-1642313.820000	219.993666
+5	10	-1625965.740000	74.050046
+
+##########
+# File name	Run #	K	Est. Ln prob. of data	Mean value of Ln likelihood	Variance of Ln likelihood
+K2_2_f	2	2	-1814343.1	-1715955.0	196776.1
+K2_4_f	4	2	-1814075.8	-1715935.9	196279.8
+K2_5_f	5	2	-1810418.8	-1715915.3	189006.9
+K2_7_f	7	2	-1810487.3	-1715904.7	189165.0
+K2_8_f	8	2	-1808463.4	-1715922.1	185082.5
+K2_10_f	10	2	-1811906.9	-1715920.6	191972.6
+K2_3_f	3	2	-1812299.0	-1715938.1	192721.7
+K2_6_f	6	2	-1814695.5	-1715947.3	197496.2
+K2_1_f	1	2	-1805693.9	-1715917.5	179552.7
+K2_9_f	9	2	-1820327.0	-1715957.1	208739.8
+K3_8_f	8	3	-1707027.6	-1661429.1	91197.1
+K3_3_f	3	3	-1704963.5	-1661415.2	87096.5
+K3_6_f	6	3	-1706438.1	-1661430.0	90016.2
+K3_7_f	7	3	-1704719.2	-1661413.2	86611.9
+K3_1_f	1	3	-1704633.1	-1661423.0	86420.1
+K3_9_f	9	3	-1703933.5	-1661423.1	85020.8
+K3_2_f	2	3	-1704726.5	-1661420.9	86611.3
+K3_10_f	10	3	-1705738.4	-1661409.6	88657.5
+K3_4_f	4	3	-1703864.4	-1661431.3	84866.3
+K3_5_f	5	3	-1705820.4	-1661434.1	88772.6
+K4_7_f	7	4	-1642021.5	-1636750.0	10542.9
+K4_1_f	1	4	-1642615.7	-1636749.0	11733.3
+K4_9_f	9	4	-1642127.2	-1636747.5	10759.3
+K4_2_f	2	4	-1642214.0	-1636745.8	10936.4
+K4_5_f	5	4	-1642211.4	-1636746.5	10929.8
+K4_8_f	8	4	-1642028.8	-1636751.8	10554.2
+K4_3_f	3	4	-1642538.5	-1636748.5	11580.1
+K4_4_f	4	4	-1642415.6	-1636746.6	11338.0
+K4_10_f	10	4	-1642435.0	-1636751.1	11367.7
+K4_6_f	6	4	-1642530.5	-1636750.4	11560.3
+K5_10_f	10	5	-1625976.5	-1624068.3	3816.5
+K5_8_f	8	5	-1625891.7	-1624062.9	3657.6
+K5_1_f	1	5	-1625876.1	-1624065.1	3622.0
+K5_9_f	9	5	-1625997.1	-1624065.4	3863.4
+K5_3_f	3	5	-1625842.6	-1624063.8	3557.5
+K5_4_f	4	5	-1626002.9	-1624066.4	3873.0
+K5_6_f	6	5	-1625952.3	-1624067.4	3769.7
+K5_7_f	7	5	-1626049.3	-1624069.2	3960.2
+K5_2_f	2	5	-1626062.6	-1624068.5	3988.3
+K5_5_f	5	5	-1626006.3	-1624065.7	3881.3
+
+Software written by Dent Earl while at EEB Dept, UCLA, BME Dept UCSC
+dearl (a) soe ucsc edu
+CITATION:
+Earl, Dent A. and vonHoldt, Bridgett M. (2012)
+STRUCTURE HARVESTER: a website and program for visualizing
+STRUCTURE output and implementing the Evanno method.
+# Conservation Genetics Resources 4(2) 359-361. DOI: 10.1007/s12686-011-9548-7
+Core version: vA.2 July 2014

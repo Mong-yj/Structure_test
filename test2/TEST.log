@@ -1,0 +1,25 @@
+PLINK v1.90b6.10 64-bit (17 Jun 2019)
+Options in effect:
+  --bfile ../Merge
+  --out TEST
+  --recode structure
+
+Hostname: dlcfe-dnalink.com
+Working directory: /ess/dlstibm/Workspace/workspace.ryj/Structure_test/test2
+Start time: Wed Apr  6 10:09:41 2022
+
+Random number seed: 1649207381
+515395 MB RAM detected; reserving 257697 MB for main workspace.
+Allocated 144954 MB successfully, after larger attempt(s) failed.
+574 variants loaded from .bim file.
+2600 people (1301 males, 1299 females) loaded from .fam.
+2600 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2600 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999801.
+574 variants and 2600 people pass filters and QC.
+Among remaining phenotypes, 0 are cases and 2600 are controls.
+--recode structure to TEST.recode.strct_in ... done.
+
+End time: Wed Apr  6 10:09:41 2022

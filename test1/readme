@@ -1,0 +1,1 @@
+sh ../tool/Structure.sh TEST ../Merge 5 N
